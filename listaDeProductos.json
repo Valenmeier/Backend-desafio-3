@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Mochila roja",
+    "description": "Para llevar todo lo que quieras,pero con una mochila roja",
+    "price": 500,
+    "thumbnail": "https://static.dafiti.com.ar/p/jansport-9733-76539-1-product.jpg",
+    "stock": 50,
+    "code": 1548
+  },
+  {
+    "id": 2,
+    "title": "Mochila marrón",
+    "description": "Para llevar todo lo que quieras,pero con una mochila marrón",
+    "price": 700,
+    "thumbnail": "https://www.tematika.com/media/catalog/Ilhsa/Imagenes/671976.jpg",
+    "stock": 20,
+    "code": 1546
+  }
+]
